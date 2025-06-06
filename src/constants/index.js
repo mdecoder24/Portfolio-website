@@ -3,14 +3,13 @@ export const myProjects = [
     id: 1,
     title: "Sign Language Recognition",
     description:
-      "Facilitates purchases from international websites like Amazon and eBay, allowing customers to shop from these sites and have products delivered domestically.",
+      "Sign Language Recognition for Deaf and Dumb.",
     subDescription: [
-      "Built a scalable application with ASP.NET Core MVC, integrating global platforms like Amazon for domestic delivery.",
-      "Implemented secure authentication and database management using ASP.NET Core Identity and Entity Framework Core.",
-      "Designed a responsive frontend with Tailwind CSS, enhancing user experience.",
-      "Added payment systems, localization, and product filtering for functionality improvements.",
+      "Our sign language recognition project involved creating a custom dataset, preprocessing images, training a model, integrating with React, and hosting with Firebase.",
+      "The result is a real-time sign language recognition application that recognizes a variety of sign language gestures.",
+      "Our Model is trained for 26 alphabets and 16 words of ASL and which are commonly used in general communication.",
     ],
-    href: "",
+    href: "https://sign-language-recognitio-a7e2a.web.app/",
     logo: "",
     image: "/assets/projects/accessories.jpg",
     tags: [
