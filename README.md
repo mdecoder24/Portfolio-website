@@ -2,8 +2,25 @@
 
 A modern, animated 3D developer portfolio built with React, Three.js, TailwindCSS, and motion effects — designed to help you stand out and showcase your skills creatively.
 
+<<<<<<< HEAD
 ![3d Portfolio Screenshot GitHub](https://github.com/user-attachments/assets/9b0ed20e-074e-4f2a-81d8-20c9da751e9e)
 
+=======
+---
+
+## 📚 Table of Contents
+
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [Project Structure](#-project-structure)
+- [Getting Started](#-getting-started)
+- [Assets](#-assets)
+- [Contact Me](#-contact-me)
+- [Suggestions or Feedback](#-suggestions-or-feedback)
+- [Like This Project?](#-like-this-project)
+
+---
+>>>>>>> b9ae47fe79c610e37d0ac9f0361b52be8bf32acf
 
 ## ✨ Features
 
@@ -55,7 +72,11 @@ A modern, animated 3D developer portfolio built with React, Three.js, TailwindCS
 ## 🚀 Getting Started
 1. Clone the Repository
 ```bash
+<<<<<<< HEAD
 git clone https://github.com/mdecoder24/Portfolio.git
+=======
+git clone https://github.com/mdecoder24/Portfolio-website.git
+>>>>>>> b9ae47fe79c610e37d0ac9f0361b52be8bf32acf
 cd Portfolio
 ```
 2. Install Dependencies
@@ -69,8 +90,11 @@ npm run dev
 The app will be available at http://localhost:5173.
 
 ---
+<<<<<<< HEAD
 
 
 
 
 
+=======
+>>>>>>> b9ae47fe79c610e37d0ac9f0361b52be8bf32acf
