@@ -15,7 +15,7 @@ const Footer = () => {
           </a>
         ))}
       </div>
-      <p>© 2025 Kushwant. All rights reserved.</p>
+      <p>© 2025 Kushwant KR. All rights reserved.</p>
     </section>
   );
 };
