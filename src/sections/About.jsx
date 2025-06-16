@@ -32,7 +32,7 @@ const About = () => {
             className="flex items-center justify-center w-full h-full"
           >
             <p className="flex items-end text-5xl text-gray-500">
-              CODE IS CRAFT
+              CODE IS SPELL AND WE ARE THE WIZARDS
             </p>
             <Card
               style={{ rotate: "75deg", top: "30%", left: "20%" }}
@@ -102,7 +102,7 @@ const About = () => {
           <div className="z-10 w-[50%]">
             <p className="headText">Tech Stack</p>
             <p className="subtext">
-              I specialize in a variety of languages, frameworks, and tools taht
+              I specialize in a variety of languages, frameworks, and tools that
               allow me to build robust and scalable applications
             </p>
           </div>
